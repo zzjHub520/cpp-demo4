@@ -1,0 +1,3 @@
+[submodule "thirdparty/sub"]
+	path = thirdparty/sub
+	url = git@github.com:zzjHub520/cpp-demo5.git
